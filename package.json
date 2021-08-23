@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "netlify-cli": "^6.7.1"
+  },
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "diouf",
+  "main": "index.js",
+  "scripts": {
+    "netlify": "netlify dev"
+  },
+  "author": "adama",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
